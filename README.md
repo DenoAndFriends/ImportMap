@@ -2,7 +2,7 @@
 # ImportMap
 
 *An importmap with simple, easy to use* <br>
-*names for many `denoland/std` imports.*
+*names for many  `denoland/std`  imports.*
 
 <br>
 <br>
