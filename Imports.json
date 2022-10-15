@@ -1,0 +1,42 @@
+{
+    "imports" : {
+        
+        "Permissions" : "https://deno.land/std/permissions/mod.ts" ,
+        "Collections" : "https://deno.land/std/collections/mod.ts" ,
+        "MediaTypes" : "https://deno.land/std/media_types/mod.ts" ,
+        "FileSystem" : "https://deno.land/std/async/fs.ts" ,
+        "Temporal" : "https://deno.land/std/datetime/mod.ts" ,
+        "Versions" : "https://deno.land/std/semver/mod.ts" ,
+        "Streams" : "https://deno.land/std/streams/mod.ts" ,
+        "Signal" : "https://deno.land/std/signal/mod.ts" ,
+        "Crypto" : "https://deno.land/std/crypto/mod.ts" ,
+        "DotEnv" : "https://deno.land/std/dotenv/mod.ts" ,
+        "Async" : "https://deno.land/std/async/mod.ts" ,
+        "Bytes" : "https://deno.land/std/bytes/mod.ts" ,
+        "Flags" : "https://deno.land/std/flags/mod.ts" ,
+        "HTTP" : "https://deno.land/std/http/mod.ts" ,
+        "Path" : "https://deno.land/std/path/mod.ts" ,
+        "UUID" : "https://deno.land/std/uuid/mod.ts" ,
+        "Log" : "https://deno.land/std/log/mod.ts" ,
+        "IO" : "https://deno.land/std/io/mod.ts" ,
+        
+        "Colors" : "https://deno.land/std/fmt/colors.ts" ,
+        "Bytes" : "https://deno.land/std/fmt/bytes.ts" ,
+        "PrintF" : "https://deno.land/std/fmt/printf.ts" ,
+        
+        "FrontMatter" : "https://deno.land/std/encoding/front_matter.ts" ,
+        "Base64Url" : "https://deno.land/std/encoding/base64url.ts" ,
+        "ASCII85" : "https://deno.land/std/encoding/ascii85.ts" ,
+        "Binary" : "https://deno.land/std/encoding/binary.ts" ,
+        "VarInt" : "https://deno.land/std/encoding/varint.ts" ,
+        "Base64" : "https://deno.land/std/encoding/base64.ts" ,
+        "Base58" : "https://deno.land/std/encoding/base58.ts" ,
+        "Base32" : "https://deno.land/std/encoding/base32.ts" ,
+        "JSONC" : "https://deno.land/std/encoding/jsonc.ts" ,
+        "TOML" : "https://deno.land/std/encoding/toml.ts" ,
+        "YAML" : "https://deno.land/std/encoding/yaml.ts" ,
+        "CSV" : "https://deno.land/std/encoding/csv.ts" ,
+        "Hex" : "https://deno.land/std/encoding/hex.ts"
+        
+    }
+}
