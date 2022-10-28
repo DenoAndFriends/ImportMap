@@ -4,7 +4,7 @@
         "Permissions" : "https://deno.land/std/permissions/mod.ts" ,
         "Collections" : "https://deno.land/std/collections/mod.ts" ,
         "MediaTypes" : "https://deno.land/std/media_types/mod.ts" ,
-        "FileSystem" : "https://deno.land/std/async/fs.ts" ,
+        "FileSystem" : "https://deno.land/std/fs/mod.ts" ,
         "Temporal" : "https://deno.land/std/datetime/mod.ts" ,
         "Versions" : "https://deno.land/std/semver/mod.ts" ,
         "Streams" : "https://deno.land/std/streams/mod.ts" ,
